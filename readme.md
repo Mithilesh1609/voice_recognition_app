@@ -1,11 +1,11 @@
 # Voice Recognition AI Assistant
 
-This is a simple voice recognition AI assistant implemented in Python. It uses the `speech_recognition` library for voice recognition, `gtts` for text-to-speech conversion, and a simple rule-based response system. The assistant can recognize voice commands and respond with a female voice. It can also close the application when the user says "close".
+This is a simple voice recognition AI assistant implemented in Python. It uses the `speech_recognition` library for voice recognition, `gtts` for text-to-speech conversion, and a simple rule-based response system. The assistant can recognize voice commands and respond with a male voice. It can also close the application when the user says "close".
 
 ## Features
 
 - Voice recognition using Google's Web Speech API
-- Text-to-speech conversion using Google Text-to-Speech (gTTS)
+- Text-to-speech conversion using Google Text-to-Speech (GTTS)
 - Simple rule-based responses
 - Closes the application when the user says "close"
 - Handles wait time errors and other exceptions gracefully
