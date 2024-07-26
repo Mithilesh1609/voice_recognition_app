@@ -38,7 +38,7 @@ This is a simple voice recognition AI assistant implemented in Python. It uses t
 
 1. Run the main script:
     ```bash
-    python main.py
+    python voice_recg_with_audio_resp.py
     ```
 
 2. Speak into the microphone. The assistant will recognize your voice and respond accordingly.
